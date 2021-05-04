@@ -1,3 +1,8 @@
+/* April 9, 2021
+Dr. T - Tarrant County College
+Create a menu and add options to what to do
+Learned how to create a menu and loop it until exiting the loop
+*/
 #include <iostream>
 #include <iomanip>
 using namespace std;
